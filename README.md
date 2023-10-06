@@ -8,4 +8,4 @@ The dataset, `crime.dta`, contains 89 observations by county. The dependent vari
 
 ## Files
 - **crime.dta**: Dataset containing crime-related data for North Carolina in 1985.
-- **do_file.do**: Stata do file containing the code for data analysis and model building.
+- **Stata_Analysis.do**: Stata do file containing the code for data analysis and model building.
